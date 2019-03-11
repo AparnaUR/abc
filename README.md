@@ -5,8 +5,11 @@ The major goal of the project is to identify students who are at risk for not gr
 
 PROBLEM DEFINITION
 The main problem is on-time graduation and college undermatching, i.e. applying to post-secondary institutions below their capability or not applying at all. A student did graduate on time when:
+
 i) The student dropped out of school sometime after enrollment, or
+
 ii) The student was retained
+
 to ensure that all students are on track for success, "early warning" model can be built to identify students who may need extra attension.
 
 GOALS OF THE PROJECT
